@@ -3,7 +3,7 @@ pipeline{
     stages{
         stage('Clone repo'){
             steps{
-                git branch: 'main', url: 'https://github.com/sakshijadhavv/Jenkinstriggerss.git'
+                git branch: 'main', url: 'https://github.com/sakshijadhavv/DevOps-Project-Two-Tier-Flask-App-main.git'
             }
         }
         stage('Build image'){

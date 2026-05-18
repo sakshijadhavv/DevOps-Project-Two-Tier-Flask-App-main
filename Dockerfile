@@ -9,7 +9,7 @@ rm -rf /var/lib/apt/lists/*
 COPY requirement.txt .
 
 RUN pip install --no-cache-dir -r requirement.txt
-
+COPY . /app
 COPY . .
 
 EXPOSE 5000

@@ -295,7 +295,9 @@ pipeline {
 4.  **Verify Deployment:**
     * After a successful build, your Flask application will be accessible at `http://<your-ec2-public-ip>:5000`.
     * Confirm the containers are running on the EC2 instance with `docker ps`.
-
+<img src="diagrams/port1.png">
+<img src="diagrams/port2.png">
+<img src="diagrams/port3.png">
 ---
 
 ### **8. Conclusion**

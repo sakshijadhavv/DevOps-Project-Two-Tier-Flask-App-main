@@ -1,4 +1,4 @@
-# DevOps Project Report: Automated CI/CD Pipeline for a 2-Tier Flask Application on AWS
+# DevOps Project: Automated CI/CD Pipeline for a 2-Tier Flask Application on AWS
 
 **Author:** Sakshi Jadhav
 **Date:** 14-05-2026
